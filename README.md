@@ -1,7 +1,6 @@
-# OpenTTD_Record_by_Sports_Center
 ## #000 故事开篇 体育中心西门口运输服务有限公司（体育西运服）正式成立
 - 撰写日为2021年6月16日
-- 发布日为2021年6月17日
+- 发布日为2021年6月17日（Github）
 ### 前言    
 本文所提及到的游戏为OpenTTD，是一款在Steam上可以免费下载安装的运输建设类模拟游戏。
 本系列游戏使用的NewGRF（可看作Mod）列表见附录A。其使用的NewGRF并不主打真实性，仅供娱乐参考。
@@ -17,7 +16,9 @@
 ### 更新备注
 本计划随着计划进程的推进，其更新频率会逐渐降低。主要原因是伴随着游戏进程，预计每年度可调用的预算会迅速增加，致使后续年度为清空跟上预算增长所购买或建设的固定资产规模会相对应增加，最终导致年初工作量随游戏进程的推进而大量增加。
 ### 原始地图
-
+![原始图](https://raw.githubusercontent.com/EmoBSAMA/OpenTTD_Record_by_Sports_Center/main/Picture/Map_2021_01_01.png)
+![平面图](https://raw.githubusercontent.com/EmoBSAMA/OpenTTD_Record_by_Sports_Center/main/Picture/Initial_Topographic_Map.png)
+![高度图](https://raw.githubusercontent.com/EmoBSAMA/OpenTTD_Record_by_Sports_Center/main/Picture/Initial_Height_Map.png)
 ### 附录A NewGRF 列表
 1. CZTR Wagons-Cargo 1.0.0
 2. CZTR Wagoons-Pass 0.9.0
